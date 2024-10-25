@@ -17,9 +17,6 @@ cpm - 6k-40k cpm
 ## Setup Instructions
 
 1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/twitter-loginer.git
-   cd twitter-loginer
 
 email_pass.txt: Enter Twitter email/number and password in the format:
    email:pass per line
