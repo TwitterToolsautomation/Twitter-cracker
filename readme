@@ -1,1 +1,52 @@
+# Twitter cracker
+
+For support and to connect with other users, join our Telegram chat at https://t.me/funcaptchabypass You can get the password for free; please note that this password is intended to avoid resellers.
+
+cpm - 6k-40k cpm
+
+
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+
+
+## Prerequisites
+
+- .NET Framework (version required: 8.0)
+
+
+## Setup Instructions
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/yourusername/twitter-loginer.git
+   cd twitter-loginer
+
+email_pass.txt: Enter Twitter email/number and password in the format:
+   email:pass per line
+
+
+proxies.txt
+  put sticky proxies per line format host:port:user:pass
+
+
+config.json
+  enter threads here
+
+
+auth_tokens.txt 
+
+  the cracked accounts will save here
+
+
+Please setup all things and start 
+   cracker.exe make sure you have net 8.0 installed , install from https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
+
+Join Our Community
+For support and to connect with other users, join our Telegram chat at https://t.me/funcaptchabypass You can get the password for free; please note that this password is intended to avoid resellers.
+
+
+
+![screenshot](screenshot.png)
+
+
 
